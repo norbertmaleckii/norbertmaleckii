@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is **Norbert**. I'm a Software Engineer specialized in building real-time apps using Ruby, Rails, AnyCable, Sidekiq, Redis and PostgreSQL. 
+My name is **Norbert**. I'm a Software Engineer specialized in building real-time apps using Ruby, Rails, AnyCable, Sidekiq, Redis and PostgreSQL. At present, I am responsible for managing AWS configuration, providing complex REST API, integrating external services, building performant SQL quries, refactoring existing functionalities to meet with new enhancements, sending live data through WebSockets, analysis app performance and bringing into project better code standards.
 
 I have been dealing with programming since the second grade of secondary school, i.e. from 2012, where I started my adventure with programming with the C++ language. Then, I graduated from AGH University of Science and Technology with a Bachelor of Engineering in Applied Computer Science. During studies I was mostly keep going with C++ language and C++ STL library. The studies left a fascination with parallel programming to these days.
 
